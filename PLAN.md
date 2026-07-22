@@ -70,7 +70,7 @@ programmes; journalists and communicators who need the same appraisal literacy.
 **The verified need.** *Not yet verified.* The need is strongly evidenced in the literature on
 patient and public involvement (PPI) in research — repeated findings that involvement is
 under-supported by training, that methodological/appraisal training is the most-requested and
-least-met need, and that lay reviewers report low confidence appraising study quality. **But Elyos
+least-met need, and that lay reviewers report low confidence appraising study quality. **But Hee-Lee Oss
 requires a *named partner with a confirmed need*, and none is yet secured.** We will not assert
 `verifiedNeed: true` on any task until a specific advocacy organisation (e.g. a cancer charity's
 research-advocate programme, a cooperative-group patient-advocate committee, or a research-engagement
@@ -396,7 +396,7 @@ not vague.
 - **FDA/EMA** oncology-endpoint guidance — cited as authority on endpoints/surrogates.
 - **NCI Dictionaries** (Cancer Terms, Genetics Terms) — glossary anchors.
 - **SEER / GLOBOCAN** aggregate statistics — illustrative aggregate examples only.
-- **Elyos pieces:** task schema (`packages/schema`), the donated-lane CLI workflow (workspace prep +
+- **Hee-Lee Oss pieces:** task schema (`packages/schema`), the donated-lane CLI workflow (workspace prep +
   PR), good-deed-definition risk tiers, and portfolio cancer guardrails.
 - **Tooling:** static-site generator (TBD M0), Ajv, link-checker, readability scorer, a11y auditor.
 
@@ -470,10 +470,10 @@ No paid services, no API keys, no runtime backend.
 
 ## References
 
-- `C:\code\elyos\CLAUDE.md` — Elyos work rules, lanes, quality bar, refusal guardrails.
-- `C:\code\elyos\docs\good-deed-definition.md` — good-deed criteria + risk tiers.
-- `C:\code\elyos\packages\schema\src\schemas.ts` — Task JSON schema (TASKS.md maps to it).
-- `C:\code\elyos\planning\ROADMAP.md` — portfolio + Track 8 cancer guardrails.
+- `C:\code\hee-lee-oss\CLAUDE.md` — Hee-Lee Oss work rules, lanes, quality bar, refusal guardrails.
+- `C:\code\hee-lee-oss\docs\good-deed-definition.md` — good-deed criteria + risk tiers.
+- `C:\code\hee-lee-oss\packages\schema\src\schemas.ts` — Task JSON schema (TASKS.md maps to it).
+- `C:\code\hee-lee-oss\planning\ROADMAP.md` — portfolio + Track 8 cancer guardrails.
 - EQUATOR Network (CONSORT, PRISMA, STROBE, SPIRIT) — reporting guidelines.
 - Cochrane Handbook for Systematic Reviews of Interventions; GRADE Handbook.
 - US FDA / EMA oncology clinical-endpoint guidance (OS, PFS, ORR, surrogate endpoints).

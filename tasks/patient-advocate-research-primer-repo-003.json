@@ -11,7 +11,7 @@
   "deliverable": "pr",
   "tokenEstimate": "small",
   "status": "open",
-  "context": "Patient-Advocate-Research-Primer needs a working repository skeleton before any content or tooling tasks can proceed. The project uses TypeScript + ESM + pnpm workspaces (matching Elyos conventions), and needs a CI pipeline (build/test/lint) plus a static-site generator to serve educational content accessibly. The static-site generator choice (Astro vs Eleventy vs plain) is an open decision to be made and recorded here.",
+  "context": "Patient-Advocate-Research-Primer needs a working repository skeleton before any content or tooling tasks can proceed. The project uses TypeScript + ESM + pnpm workspaces (matching Hee-Lee Oss conventions), and needs a CI pipeline (build/test/lint) plus a static-site generator to serve educational content accessibly. The static-site generator choice (Astro vs Eleventy vs plain) is an open decision to be made and recorded here.",
   "objective": "Stand up the repo skeleton with pnpm/TS/ESM workspace configuration, a passing CI pipeline (build/test/lint), and a decided and configured static-site generator — giving all subsequent tasks a clean, green base to build on.",
   "acceptanceCriteria": [
     "pnpm workspaces configured with at least packages/build and site packages; tsconfig with ESM output; lint (ESLint or oxlint) and format (Prettier) configured.",

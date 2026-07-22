@@ -11,7 +11,7 @@
   "deliverable": "document",
   "tokenEstimate": "large",
   "status": "open",
-  "context": "The general walkthroughs in M0/M2 use papers selected for methodological diversity. A disease-specific set would use papers from a single disease area (e.g. Ewing sarcoma, to align with the Elyos Ewing track), giving advocates whose organisations focus on that cancer a more directly relevant set of worked examples. The disease scope is an open question (PLAN.md Open Q5) and this task is unscheduled pending a scope decision and confirmed advocacy partner with that disease focus.",
+  "context": "The general walkthroughs in M0/M2 use papers selected for methodological diversity. A disease-specific set would use papers from a single disease area (e.g. Ewing sarcoma, to align with the Hee-Lee Oss Ewing track), giving advocates whose organisations focus on that cancer a more directly relevant set of worked examples. The disease scope is an open question (PLAN.md Open Q5) and this task is unscheduled pending a scope decision and confirmed advocacy partner with that disease focus.",
   "objective": "Author a set of annotated walkthroughs using licence-verified, fully open-access papers from a specific oncology disease area (disease TBD pending scope decision), applying the matching worksheets inline and obtaining dual high-tier sign-off for each walkthrough.",
   "acceptanceCriteria": [
     "Disease scope decision (PLAN.md Open Q5) is resolved and the target disease area is confirmed by the maintainer before authoring begins.",

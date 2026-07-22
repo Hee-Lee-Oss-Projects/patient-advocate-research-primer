@@ -1,6 +1,6 @@
 # Competitive & Improvement Analysis — `patient-advocate-research-primer`
 
-*Analyst: Elyos research agent · Date: 2026-06-29 · Source plan: `scratchpad/plans/patient-advocate-research-primer/PLAN.md` (Draft v0.1.0)*
+*Analyst: Hee-Lee Oss research agent · Date: 2026-06-29 · Source plan: `scratchpad/plans/patient-advocate-research-primer/PLAN.md` (Draft v0.1.0)*
 
 This is an unusually mature plan: the licence/provenance gate, the medium-vs-high split risk
 tier, the dual oncologist+advocate sign-off, and the honest `verifiedNeed:false` / TO BE SECURED
@@ -280,7 +280,7 @@ incumbent occupies the intersection this project targets.
 - **Tone/usability and "does this patronise advocates" are decided by the advocate co-designer,** not
   the model.
 - **Funded-lane note:** any metered Claude use stays within the donated-lane posture / hard budget cap
-  per the Elyos rules; this project needs no runtime API and should keep authoring use offline/batch.
+  per the Hee-Lee Oss rules; this project needs no runtime API and should keep authoring use offline/batch.
 
 ---
 

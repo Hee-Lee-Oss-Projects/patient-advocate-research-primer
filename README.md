@@ -6,7 +6,7 @@ Patient advocates are now embedded throughout cancer research. They sit on NIH/N
 
 **Definition of shipped:** (incl. licence + provenance + readability gates); dual high-tier sign-off recorded (oncologist + advocate) for patient-facing units; licence/provenance audit passed; **and** the unit is published to the partner and in the advocates' hands (last-mile handoff by the steward). "Deli
 
-This is an **Elyos** good-deed project. Contributors pull a task, do it with their own coding agent, and open a PR. Platform: https://github.com/jdev1977/elyos
+This is an **Hee-Lee Oss** good-deed project. Contributors pull a task, do it with their own coding agent, and open a PR. Platform: https://github.com/jdev1977/hee-lee-oss
 
 ## Plan
 - [PLAN.md](./PLAN.md) — robust enterprise plan (vision, architecture, roadmap, risks; includes an applied-improvements appendix + review sign-off)
@@ -15,8 +15,8 @@ This is an **Elyos** good-deed project. Contributors pull a task, do it with the
 
 ## Contribute
 ```bash
-elyos browse
-elyos next --repo Elyos-Projects/patient-advocate-research-primer --no-fork
+hee-lee-oss browse
+hee-lee-oss next --repo Hee-Lee-Oss-Projects/patient-advocate-research-primer --no-fork
 ```
 
 ## Licensing & review

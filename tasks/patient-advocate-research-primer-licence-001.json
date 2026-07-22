@@ -11,7 +11,7 @@
   "deliverable": "document",
   "tokenEstimate": "small",
   "status": "open",
-  "context": "Patient-Advocate-Research-Primer teaches cancer patient advocates to read research as education, not medical advice. Per Elyos cancer guardrails it may reuse ONLY open-access / aggregate / de-identified sources, each with a verified licence, and must carry provenance on every assertion. Before any content is authored, the project needs a machine-readable source register that records each source's licence and the uses it permits, so the CI licence gate (task 004) can enforce it.",
+  "context": "Patient-Advocate-Research-Primer teaches cancer patient advocates to read research as education, not medical advice. Per Hee-Lee Oss cancer guardrails it may reuse ONLY open-access / aggregate / de-identified sources, each with a verified licence, and must carry provenance on every assertion. Before any content is authored, the project needs a machine-readable source register that records each source's licence and the uses it permits, so the CI licence gate (task 004) can enforce it.",
   "objective": "Design the source-register schema and per-source licence/provenance model that every reused paper, guideline, or statistic must have an entry in before content may cite it.",
   "acceptanceCriteria": [
     "Defines a sources.yaml schema with fields: id, citation, doiOrUrl, accessType (oa|authoritative|aggregate), licence, licenceVerifiedDate, verifiedBy, allowedUse (link|quote|adapt|reproduce).",
@@ -25,7 +25,7 @@
     "PLAN.md (Data, licensing & compliance section)",
     "https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/ (PMC Open Access Subset + licence metadata)",
     "https://www.equator-network.org/ (reporting guidelines, cited as authority)",
-    "packages/schema/src/schemas.ts (Elyos task schema conventions)"
+    "packages/schema/src/schemas.ts (Hee-Lee Oss task schema conventions)"
   ],
   "output": "A design-spec document defining sources.yaml schema, the per-source licence/provenance model, allowed-use rules, worked example entries, and re-verification cadence — committed to the repo as the basis for the CI licence gate.",
   "requestor": "TO BE SECURED",
